@@ -32,13 +32,5 @@ class Shoe
           @condition
           
         end 
-       def cobble
-          
-           puts "Your shoe is as good as new!"
-         end
-     end
-     shoe = Shoe.new("new")
-    
-     #binding.pry
-     shoe.condition
+      
      
