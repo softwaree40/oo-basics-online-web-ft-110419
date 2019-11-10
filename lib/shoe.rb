@@ -38,5 +38,5 @@ class Shoe
      end
      new_shoes = Shoe.new('new')
      binding.pry
-     new_shoe.cobble
+     new_shoes.cobble
      
