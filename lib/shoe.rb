@@ -37,6 +37,7 @@ class Shoe
       end
     end
     shoe = Shoe.new("new")
+    binding.pry
     shoe.condition 
       
      
