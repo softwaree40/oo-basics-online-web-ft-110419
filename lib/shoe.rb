@@ -38,7 +38,7 @@ class Shoe
          end
      end
      shoe = Shoe.new
-     shoes.condition = "new"
+     
      binding.pry
      shoe.cobble
      
