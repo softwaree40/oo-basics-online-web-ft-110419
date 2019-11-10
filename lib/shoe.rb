@@ -37,6 +37,6 @@ class Shoe
          end
      end
      new_shoes = Shoe.new('new')
-     binding.pry
+     #binding.pry
      new_shoes.brand 
      
