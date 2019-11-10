@@ -37,6 +37,6 @@ class Shoe
          end
      end
      shoe = Shoe.new('new')
-     #binding.pry
+     binding.pry
      shoe.cobble
      
