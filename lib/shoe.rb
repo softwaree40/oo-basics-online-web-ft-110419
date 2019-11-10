@@ -30,7 +30,7 @@ class Shoe
       end
       def condition 
           @condition
-          binding.pry
+          #binding.pry
         end 
        def cobble 
            puts "Your shoe is as good as new!"
