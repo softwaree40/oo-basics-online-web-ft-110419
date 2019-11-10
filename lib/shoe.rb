@@ -36,7 +36,7 @@ class Shoe
            puts "Your shoe is as good as new!"
          end
      end
-     shoe = Shoe.new(brand)
+     shoe = Shoe.new('new')
      #binding.pry
      shoe.brand
      
