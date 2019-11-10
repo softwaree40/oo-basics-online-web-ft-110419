@@ -36,4 +36,6 @@ class Shoe
            puts "Your shoe is as good as new!"
          end
      end
+     new_shoes = Shoe.new("new")
+     new_shoes.cobble
      
