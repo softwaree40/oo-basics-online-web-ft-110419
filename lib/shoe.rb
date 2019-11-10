@@ -1,7 +1,7 @@
 # Make your shoe class here!
 require 'pry'
 class Shoe
-  def initialize(brand)
+  def initialize(brand='new')
       @brand = brand 
   end
   def brand
