@@ -10,4 +10,5 @@ class Book
   end
     def author 
       @author 
+    end
 end
