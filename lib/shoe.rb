@@ -40,5 +40,5 @@ class Shoe
      shoe = Shoe.new
      
      binding.pry
-     shoe.cobble
+     shoe.brand 
      
