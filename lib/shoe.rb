@@ -26,11 +26,11 @@ class Shoe
       end 
       def condition=(condition)
           @condition = condition
-        end
-        def condition 
+      end
+      def condition 
           @condition
         end 
-        def cobble 
+       def cobble 
           @cobble
         end
 end
